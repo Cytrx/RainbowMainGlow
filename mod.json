@@ -1,0 +1,10 @@
+{
+  "id": "rainbow-main-glow",
+  "name": "Rainbow Main & Glow",
+  "version": "1.0.0",
+  "developer": "YourName",
+  "description": "Applies rainbow color cycling to main color and glow only.",
+  "geode": {
+    "required": "0.10.0"
+  }
+}
